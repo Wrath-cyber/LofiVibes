@@ -21,5 +21,7 @@ create table users (
   locale varchar(5)
 );
 
-insert into themes (name, url) values ('beats to relax/study to (24h)', 'https://www.youtube.com/watch?v=5qap5aO4i9A');
-insert into themes (name, url) values ('beats to sleep/chill to (24h)', 'https://www.youtube.com/watch?v=DWcJFNfaw9c');
+insert into themes (name, url) values ('🥶 Lofi beats to relax/study to (24h)', 'https://www.youtube.com/watch?v=5qap5aO4i9A');
+insert into themes (name, url) values ('💤 Lofi beats to sleep/chill to (24h)', 'https://www.youtube.com/watch?v=DWcJFNfaw9c');
+insert into themes (name, url) values ("☕ Coffee Shop Lofi beats (24h)", "https://www.youtube.com/watch?v=-5KAN9_CzSA");
+insert into themes (name,url) values ("📚 1 A.M Study Session (24h)", "https://www.youtube.com/watch?v=lTRiuFIWV54");
