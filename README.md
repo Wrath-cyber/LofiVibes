@@ -10,7 +10,7 @@
 </h1>
 
 <p align="center">
-  Discord bot that just playing youtube live streams
+  Discord bot that is just playing youtube live streams
 </p>
 
 <br />
@@ -23,7 +23,7 @@
 * `mysql` or `mariadb`
 * `java` (**v13.x only**)
 
-### Windows
+### Windows (Currently Deprecated)
 1. run `npm i` or `yarn` to get dependancies
 1. if your jdk version is not `v13`, get it from [here](https://jdk.java.net/archive/)
 2. get lavalink jar file from [here](https://github.com/freyacodes/Lavalink/releases/download/3.3.2.5/Lavalink.jar)
