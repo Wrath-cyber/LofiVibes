@@ -27,7 +27,7 @@
 1. run `npm i` or `yarn` to get dependancies
 1. if your jdk version is not `v13`, get it from [here](https://jdk.java.net/archive/)
 2. get lavalink jar file from [here](https://github.com/freyacodes/Lavalink/releases/download/3.3.2.5/Lavalink.jar)
-3. place `C:\path\to\download\folder\Lavalink.jar` to `C:\path\to\this\code\folder\lavalink/lavalink.jar`
+3. place `C:\path\to\download\folder\Lavalink.jar` to `C:\path\to\this\code\folder\lavalink.jar`
 4. run `java -jar lavalink/lavalink.jar` to start lavalink server
 5. open mysql shell and run `source database.sql`
 6. copy default configuration from `config.inc.json` to `config.json`
@@ -39,7 +39,7 @@
 1. run `npm i` or `yarn` to get dependancies
 1. if your jdk version is not `v13`, get it from [here](https://jdk.java.net/archive/)
 2. run `./install.sh` to get lavalink.jar file
-3. run `java -jar lavalink/lavalink.jar` to start lavalink server
+3. run `java -jar lavalink.jar` to start lavalink server
 4. type `sudo mysql` to open mysql shell and run `source database.sql`
 5. copy`config.inc.json` to `config.json`
 6. edit your `config.json` file with your bot's token
