@@ -1,16 +1,16 @@
 <p align="center">
-  <img src="https://i.ytimg.com/vi/5qap5aO4i9A/maxresdefault.jpg" />
+  <img src="https://i.ytimg.com/vi/q22uHBl9qxw/maxresdefault.jpg" />
   <small>
-    * Illustration by <a href="https://bit.ly/Machadofb">Juan Pablo Machado</a>
+    * Illustration by <a href="https://www.instagram.com/visualdon/">@Visualdon</a>
   </small>
 </p>
 
 <h1 align="center">
-  Lofi Girl
+  Lofi Vibes
 </h1>
 
 <p align="center">
-  Discord bot that is just playing youtube live streams
+  Discord bot that plays youtube live streams
 </p>
 
 <br />
@@ -21,9 +21,9 @@
 * `node` (v12.x~)
 * `npm` or `yarn`
 * `mysql` or `mariadb`
-* `java` (**v13.x only**)
+* `java` (**v13.x only** due to lavalink conflict)
 
-### Windows (Currently Deprecated)
+### Windows Installation (Currently Deprecated)
 1. run `npm i` or `yarn` to get dependancies
 1. if your jdk version is not `v13`, get it from [here](https://jdk.java.net/archive/)
 2. get lavalink jar file from [here](https://github.com/freyacodes/Lavalink/releases/download/3.3.2.5/Lavalink.jar)
@@ -35,13 +35,19 @@
 8. run `npm i` or `yarn` to get dependancies
 9. open another terminal and run `yarn start`
 
-### Linux
+### Linux Installation
 1. run `npm i` or `yarn` to get dependancies
 1. if your jdk version is not `v13`, get it from [here](https://jdk.java.net/archive/)
 2. run `./install.sh` to get lavalink.jar file
 3. run `java -jar lavalink/lavalink.jar` to start lavalink server
 4. type `sudo mysql` to open mysql shell and run `source database.sql`
-5. copy default configuration from `config.inc.json` to `config.json`
-6. edit your `config.json` file
+5. copy`config.inc.json` to `config.json`
+6. edit your `config.json` file with your bot's token
 7. run `npm i` or `yarn` to get dependancies
 8. open another terminal and run `yarn start`
+
+*Help Page `lf>help`
+*Select voice channel for lofi Vibes to auto join `lf>mark`
+*View built in tracks with `lf>track`
+*return ping with `lf>ping`
+*To play a custom song/live stream, use `lf>play` followed by the youtube link
