@@ -47,8 +47,7 @@
 8. open another terminal and run `yarn start`
 
 
-##COMMANDS##
-
+## Commands
 * Help Page `lf>help`
 * Select voice channel for lofi Vibes to auto join `lf>mark`
 * View built in tracks with `lf>track`
