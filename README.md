@@ -53,3 +53,7 @@
 * View built in tracks with `lf>track`
 * Check bot's status with `lf>status`
 * To play a custom song/live stream, use `lf>play` followed by the youtube link
+
+## Locales
+* English
+* Korean
