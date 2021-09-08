@@ -1,7 +1,7 @@
 #!env /bin/bash
 version=$(cat $(pwd)/lavalink/version)
 
-if [[ $(ls $(pwd)/lavalink/lavalink.jar) ]]
+if [[ $(ls $(pwd)/lavalink.jar) ]]
 then
   echo installed lavalink v$version
 else
