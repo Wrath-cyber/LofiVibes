@@ -46,8 +46,8 @@
 7. run `npm i` or `yarn` to get dependancies
 8. open another terminal and run `yarn start`
 
-Markup: *Help Page `lf>help`
-        *Select voice channel for lofi Vibes to auto join `lf>mark`
-        *View built in tracks with `lf>track`
-        *return ping with `lf>ping`
-        *To play a custom song/live stream, use `lf>play` followed by the youtube link
+* Help Page `lf>help`
+* Select voice channel for lofi Vibes to auto join `lf>mark`
+* View built in tracks with `lf>track`
+* Check bot's status with `lf>status`
+* To play a custom song/live stream, use `lf>play` followed by the youtube link
