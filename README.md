@@ -44,7 +44,8 @@
 5. copy`config.inc.json` to `config.json`
 6. edit your `config.json` file with your bot's token
 7. run `npm i` or `yarn` to get dependancies
-8. open another terminal and run `yarn start`
+8. run `yarn build` to compile into js (you should see a /dist folder
+9. open another terminal and run `yarn start`
 
 
 ## Commands
